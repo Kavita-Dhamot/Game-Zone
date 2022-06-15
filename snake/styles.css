@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Itim', cursive;
+    padding: 10px;
+    margin: 2px;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px;
+    color: azure;
+    font-size: 25px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 80px;
+}
+
+body {
+    background-color: #0A1931;
+}
+
+#mycanvas {
+    width: 1000px;
+    height: 500px;
+    padding: 2px;
+    background-color: blue;
+    border: 5px solid orange;
+    margin: 5% 10%;
+    align-content: center;
+    display: flex;
+}
